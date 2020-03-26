@@ -1,0 +1,3 @@
+[submodule "frank-bpi-kernel-src"]
+  path = frank-bpi-kernel-src
+  url = git@github.com:frank-w/BPI-R2-4.14.git
